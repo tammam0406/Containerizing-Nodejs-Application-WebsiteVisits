@@ -1,0 +1,12 @@
+{
+  "name": "website-visits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "*",
+    "redis": "^4.6.7"
+  },
+  "scripts": {
+    "start": "node home.js"
+  }
+}
